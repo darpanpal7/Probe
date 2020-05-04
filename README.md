@@ -9,4 +9,4 @@ A Fast File System Search tool.
     instantaneously (not like the Windows Search :P).
 
 
-You can see the Snaps here(https://github.com/darpanpal7/Probe/tree/master/Snaps)
+You can see the Snaps [here](https://github.com/darpanpal7/Probe/tree/master/Snaps)
